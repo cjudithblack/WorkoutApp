@@ -1,0 +1,5 @@
+
+.vs/*
+WorkoutApp/bin/*
+WorkoutApp/obj/*
+packages/*
